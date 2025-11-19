@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 24
+names: ['16MHz Crystal Oscillator', '16MHz Crystal Oscillator Missing', '5V Regulator', '5V Regulator Missing', 'ATmega328P MC', 'ATmega328P MC Missing', 'CK47Capacitor', 'CK47Capacitor Missing', 'Connecting Pins', 'Connecting Pins Missing', 'DC Power Port', 'DC Power Port Missing', 'LED', 'LED Missing', 'LM358', 'LM358 Missing', 'Poly Fuse', 'Poly Fuse Missing', 'Reset Button', 'Reset Button Missing', 'USB Connector', 'USB Connector Missing', 'USB-TTL Converter', 'USB-TTL Converter Missing']
+
+roboflow:
+  workspace: arduinocomponentdetection
+  project: final-component-detection-data-mylyl
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/arduinocomponentdetection/final-component-detection-data-mylyl/dataset/1
