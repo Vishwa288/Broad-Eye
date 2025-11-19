@@ -1,13 +1,3 @@
-# Broad-Eye
-Yolo based Intelligent SBC Component Detection System
-Real-time detection of Arduino board components using a USB webcam and a lightweight YOLO model deployed on Raspberry Pi 5.
-The project includes dataset creation, labeling, model training on Google Colab, and model deployment in NCNN formats.
-
-Here is a **clean, professional, ready-to-upload `README.md`** for your GitHub repository.
-It includes **project overview, features, dataset, training, NCNN conversion, installation, usage, folder structure, results, and acknowledgements** — everything required for a proper GitHub project.
-
-You can copy–paste this directly into **README.md**.
-
 ---
 
 # 🔍 Real-Time Arduino Component Detection using YOLOv8 & Raspberry Pi 5
